@@ -9,8 +9,8 @@ load_dotenv()
 
 # bot ID
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-print(BOT_TOKEN)
-print("test")
+# print(BOT_TOKEN)
+# print("test")
 
 # not being used
 def get_token():

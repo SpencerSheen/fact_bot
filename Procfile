@@ -1,1 +1,1 @@
-worker: python fact_bot/test.py
+worker: python test.py
